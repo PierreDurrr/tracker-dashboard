@@ -30,7 +30,7 @@
     ]
   },
   "fetch": {
-    "mode": "http",
+    "mode": "browser",
     "fields": {
       "uploadedBytes": {
         "regex": "class=\"stat tooltip up\" title=\"(?<value>[^\"]+)\"",
